@@ -11,7 +11,7 @@
             "decimals": 18,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x0231f91e02DebD20345Ae8AB7D71A41f8E140cE7/logo.png",
             "pairs": [],
-            "top":1
+ 
         },
         {
             "asset": "c20000714_t0x0D8Ce2A99Bb6e3B7Db580eD848240e4a0F9aE153",
@@ -22,7 +22,7 @@
             "decimals": 18,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x0D8Ce2A99Bb6e3B7Db580eD848240e4a0F9aE153/logo.png",
             "pairs": [],
-            "top":1
+
         },
         {
             "chainId": 56,
@@ -34,7 +34,7 @@
             "decimals": 18,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82/logo.png",
             "pairs": [],
-            "top":1
+
         },
         {
             "asset": "c20000714_t0x0Eb3a705fc54725037CC9e008bDede697f62F335",
