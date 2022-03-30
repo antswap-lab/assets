@@ -10,7 +10,8 @@
             "symbol": "bwJUP",
             "decimals": 18,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x0231f91e02DebD20345Ae8AB7D71A41f8E140cE7/logo.png",
-            "pairs": []
+            "pairs": [],
+            "top":1
         },
         {
             "asset": "c20000714_t0x0D8Ce2A99Bb6e3B7Db580eD848240e4a0F9aE153",
@@ -20,7 +21,8 @@
             "symbol": "FIL",
             "decimals": 18,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x0D8Ce2A99Bb6e3B7Db580eD848240e4a0F9aE153/logo.png",
-            "pairs": []
+            "pairs": [],
+            "top":1
         },
         {
             "chainId": 56,
@@ -31,7 +33,8 @@
             "symbol": "CAKE",
             "decimals": 18,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82/logo.png",
-            "pairs": []
+            "pairs": [],
+            "top":1
         },
         {
             "asset": "c20000714_t0x0Eb3a705fc54725037CC9e008bDede697f62F335",
@@ -41,7 +44,8 @@
             "symbol": "ATOM",
             "decimals": 18,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x0Eb3a705fc54725037CC9e008bDede697f62F335/logo.png",
-            "pairs": []
+            "pairs": [],
+            "top":1
         },
         {
             "asset": "c20000714_t0x16939ef78684453bfDFb47825F8a5F714f12623a",
@@ -51,7 +55,8 @@
             "symbol": "XTZ",
             "decimals": 18,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x16939ef78684453bfDFb47825F8a5F714f12623a/logo.png",
-            "pairs": []
+            "pairs": [],
+            "top":1
         },
         {
             "asset": "c20000714_t0x190b589cf9Fb8DDEabBFeae36a813FFb2A702454",
@@ -61,7 +66,8 @@
             "symbol": "BDO",
             "decimals": 18,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x190b589cf9Fb8DDEabBFeae36a813FFb2A702454/logo.png",
-            "pairs": []
+            "pairs": [],
+            "top":1
         },
         {
             "chainId": 56,
@@ -72,7 +78,8 @@
             "symbol": "DAI",
             "decimals": 18,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3/logo.png",
-            "pairs": []
+            "pairs": [],
+            "top":1
         },
         {
             "asset": "c20000714_t0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE",
@@ -82,7 +89,8 @@
             "symbol": "XRP",
             "decimals": 18,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE/logo.png",
-            "pairs": []
+            "pairs": [],
+            "top":1
         },
         {
             "asset": "c20000714_t0x2090c8295769791ab7A3CF1CC6e0AA19F35e441A",
@@ -92,7 +100,8 @@
             "symbol": "Fuel",
             "decimals": 18,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x2090c8295769791ab7A3CF1CC6e0AA19F35e441A/logo.png",
-            "pairs": []
+            "pairs": [],
+            "top":1
         },
         {
             "chainId": 56,
